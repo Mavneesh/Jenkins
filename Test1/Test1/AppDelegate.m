@@ -14,6 +14,7 @@
 {
     // Override point for customization after application launch.
     NSLog(@"This is just a test");
+    NSLog(@"new change");
     return YES;
 }
 							
