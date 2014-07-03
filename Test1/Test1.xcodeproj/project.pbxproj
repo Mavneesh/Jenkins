@@ -455,7 +455,7 @@
 				59D79A11195D891100B7B771 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		59D79A12195D891100B7B771 /* Build configuration list for PBXNativeTarget "Test1" */ = {
 			isa = XCConfigurationList;
@@ -464,7 +464,7 @@
 				59D79A14195D891100B7B771 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		59D79A15195D891100B7B771 /* Build configuration list for PBXNativeTarget "Test1Tests" */ = {
 			isa = XCConfigurationList;
@@ -473,7 +473,7 @@
 				59D79A17195D891100B7B771 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 /* End XCConfigurationList section */
 	};
